@@ -21,10 +21,10 @@
 
 | 难度 | 数量 | 进度 |
 |------|------|------|
-| 🟢 Easy | 120 / 150 | ![80%](https://progress-bar.dev/80?color=green) |
-| 🟡 Medium | 150 / 200 | ![75%](https://progress-bar.dev/75?color=yellow) |
-| 🔴 Hard | 45 / 100 | ![45%](https://progress-bar.dev/45?color=red) |
-| **总计** | **315 / 450** | ![70%](https://progress-bar.dev/70?color=blue) |
+| 🟢 Easy | 0 / 150 | ![%](https://progress-bar.dev/80?color=green) |
+| 🟡 Medium | 0 / 200 | ![%](https://progress-bar.dev/75?color=yellow) |
+| 🔴 Hard | 0 / 100 | ![%](https://progress-bar.dev/45?color=red) |
+| **总计** | **0 / 450** | ![%](https://progress-bar.dev/70?color=blue) |
 
 </div>
 
@@ -244,18 +244,6 @@ python utils/problem-tracker.py --update
 ```bash
 python utils/code-stats.py
 ```
-
----
-
-## 📈 贡献统计 | Stats
-
-<!-- 由 GitHub Actions 自动更新 -->
-<div align="center">
-
-**总提交数**: 500+ | **解题数**: 315 | **连续打卡**: 120 天
-
-</div>
-
 ---
 
 ## 📖 推荐资源 | Resources
