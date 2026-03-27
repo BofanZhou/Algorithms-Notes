@@ -21,7 +21,7 @@
 
 | 难度 | 数量 | 进度 |
 |------|------|------|
-| 🟢 Easy | 0 / 150 | ![%](https://progress-bar.dev/80?color=green) |
+| 🟢 Easy | 1 / 150 | ![%](https://progress-bar.dev/80?color=green) |
 | 🟡 Medium | 0 / 200 | ![%](https://progress-bar.dev/75?color=yellow) |
 | 🔴 Hard | 0 / 100 | ![%](https://progress-bar.dev/45?color=red) |
 | **总计** | **0 / 450** | ![%](https://progress-bar.dev/70?color=blue) |
